@@ -1,0 +1,14 @@
+.btn-clear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: rgb(202, 79, 167);
+  margin-top: 25px;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  color: #fff;
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+}

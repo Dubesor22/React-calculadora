@@ -1,0 +1,22 @@
+.btn {
+  width: 70px;
+  height: 70px;
+  padding: 5px;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 20px;
+  font-size: 1.6rem;
+}
+
+.btn:hover {
+  filter: brightness(80%);
+  box-shadow: rgba(85, 85, 255, 0.2) 0px 7px 29px 0px;
+}
+
+.btn-number {
+  background-color: #99c9ff;
+}
+
+.btn-operator {
+  background-color: #ff2e8c;
+}
